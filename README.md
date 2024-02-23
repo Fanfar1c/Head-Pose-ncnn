@@ -16,3 +16,6 @@
 
 - [ncnn](https://github.com/Tencent/ncnn)
 - [OpenCV](https://opencv.org/)
+
+
+## Дальнейшим добавлю возможность вызова оценки позы головы из Python с использованием DLL. Следите за обновлениями!
